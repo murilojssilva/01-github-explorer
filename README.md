@@ -1,4 +1,4 @@
-# :github: Github Explorer
+# :octocat: Github Explorer
 
 <p align="center">Primeiro projeto desenvolvido no Bootcamp Ignite na trilha React, ministrado pela <a href="https://github.com/rocketseat">Rocketseat</a>.</p>
 
