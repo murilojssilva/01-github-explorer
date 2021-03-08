@@ -51,7 +51,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### :framed_picture: Screenshots
 
 <p align="center">
-	<img alt="Barra de level" src="./assets/Github Explorer.png" />
+	<img alt="Barra de level" src="./src/assets/Github Explorer.png" />
 </p>
 
 ### :rocket: Executando a aplicação
